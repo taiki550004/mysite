@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+//test update clone project
 Route::get('/', function () {
     $title = "Mysite";
     $content = "it mysite";
